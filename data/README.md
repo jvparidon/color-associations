@@ -31,6 +31,8 @@
 | color | Color of the color/adjective pair to be rated, presented to participants in text form |
 | adjective | Adjective of the color/adjective pair to be rated, presented to participants in text form |
 | rt_mean, sd, min, max | Mean response time in milliseconds, also standard deviation, minimum, maximum |
-| neither_vs_both_mean, sd, min, max | Mean final position of the moveable dot on the `neither` to `both` response axis, also sd, min, max |
-| viz_vs_ling_mean, sd, min, max | Mean final position of the moveable dot on the `visual` to `linguistic` response axis, also sd, min, max |
+| neither_vs_both_mean, sd, min, max | Mean final position of the moveable dot on the `neither` to `both` response axis, higher is both, also sd, 
+min, max |
+| viz_vs_ling_mean, sd, min, max | Mean final position of the moveable dot on the `visual` to `linguistic` response axis, higher is more 
+linguistic, also sd, min, max |
 
