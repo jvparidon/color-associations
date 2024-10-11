@@ -12,6 +12,7 @@
 | viz_vs_ling_aggr.tsv | Aggregated/mean ratings for linguistic vs. visual learnability of color/adjective relationships |
 | data_plus_predictors.tsv | All color/adjective semantic differential ratings from the first three experiments, including covariates |
 | data_plus_predictors_with_cond_prob.tsv | All color/adjective semantic differential ratings from the first three experiments, including covariate "cond_prob_diff_coca_fict" |
+| data_plus_predictors_down.tsv | for experiment 3 purpose, all augmentations are downsampled to the size equal to the smallest corpus |
 
 ## Contents of viz_vs_ling_raw.tsv
 | Variable | Description |
